@@ -7,8 +7,7 @@ Fullstack open source quiz application </h5>
   * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
   * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
+  
 
 
 ## Configuration and Setup
